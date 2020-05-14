@@ -13,9 +13,9 @@ NLTK的学习笔记，包括NLTK库和基础的Python。《Python自然语言处
 
    NLTK库相关操作和概念理解
 
-   - [x] [文本数据集操作](https://github.com/huaiyukeji/NLP_NLTK/blob/master/NLTK/NLTK-%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E9%9B%86%E6%93%8D%E4%BD%9C.ipynb)
+   - [x] [文本数据集操作](./NLTK/NLTK-文本数据集操作.ipynb)
      - 词索引|词频统计|选词|连词|词搭配
-   - [ ] 理解自然语言
+   - [x] [理解自然语言](./NLTK/NLTK-理解自然语言.ipynb)
      - 词义消歧|指代消解|机器翻译|人机对话
    - [ ] 语料/资源获取
      - 古腾堡语料|网络聊天语料|布朗语料库|路透社语料|就职演说语料
